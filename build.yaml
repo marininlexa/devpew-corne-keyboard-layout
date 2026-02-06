@@ -17,12 +17,14 @@ include:
 #    shield: corne_central_dongle
   - board: nice_nano
     shield: corne_central_dongle
+  - board: nice_nano
+    shield: corne_central_left
+  - board: nice_nano
+    shield: corne_central_right    
 #  - board: nice_nano
-#    shield: corne_central_left
-  - board: nice_nano
-    shield: corne_peripheral_left
-  - board: nice_nano
-    shield: corne_peripheral_right
+#    shield: corne_peripheral_left
+#  - board: nice_nano
+#    shield: corne_peripheral_right
   - board: nice_nano
     shield: settings_reset
 #  - board: seeeduino_xiao_ble
