@@ -195,7 +195,7 @@
             bindings = <
 &trans        &trans  &kp PG_UP  &kp UP    &kp PG_DN    &kp HOME       &kp CARET  &kp PG_UP  &kp UP    &kp PG_DN  &kp HOME  &kp F17
 &trans        &trans  &kp LEFT   &kp DOWN  &kp RIGHT    &kp END        &kp MINUS  &kp LEFT   &kp DOWN  &kp RIGHT  &kp END   &kp F18
-&out OUT_TOG  &trans  &trans     &trans    &trans       &kp F15        &kp F16    &kp F23    &trans    &trans     &trans    &out OUT_TOG
+&out OUT_TOG  &kp B   &trans     &trans    &trans       &kp F15        &kp F16    &kp F23    &trans    &trans     &trans    &out OUT_TOG
                                  &trans    &kp LG(F11)  &kp LG(F12)    &trans     &trans     &trans
             >;
         };
